@@ -1,3 +1,5 @@
+![Screenshot 2024-10-04 013918](https://github.com/user-attachments/assets/c13f1d91-66a3-459d-b37c-6b54ed18bc7f)
+![Screenshot 2024-10-04 013857](https://github.com/user-attachments/assets/81863b3d-6da2-40c9-bc43-45089ca69c6f)
 Sentiment Analysis for Enhanced Customer Insights
 
 In today's data-driven world, understanding customer sentiment is crucial to staying ahead of the competition. This Sentiment Analysis project leverages cutting-edge machine learning and natural language processing (NLP) techniques to analyze large volumes of customer feedback, reviews, and social media interactions. By determining the underlying sentiment—whether positive, neutral, or negative—this project provides invaluable insights into how your customers feel about your products, services, or brand.
